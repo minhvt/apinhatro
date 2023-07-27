@@ -1,8 +1,96 @@
 {
     "phongtro": [
-
+        {
+            "id": 1,
+            "sophong": "Tầng 1",
+            "phithue": 0,
+            "giadien": 4000,
+            "gianuoc": 26000,
+            "ghichu": null
+        },
+        {
+            "id": 2,
+            "sophong": "Tầng 2",
+            "phithue": 0,
+            "giadien": 4000,
+            "gianuoc": 26000,
+            "ghichu": null
+        },
+        {
+            "id": 3,
+            "sophong": "Tầng 3",
+            "phithue": 3500000,
+            "giadien": 4000,
+            "gianuoc": 26000,
+            "ghichu": null
+        },
+        {
+            "id": 4,
+            "sophong": "Tầng 4",
+            "phithue": 3500000,
+            "giadien": 4000,
+            "gianuoc": 26000,
+            "ghichu": null
+        },
+        {
+            "id": 5,
+            "sophong": "Tầng 5",
+            "phithue": 3500000,
+            "giadien": 4000,
+            "gianuoc": 26000,
+            "ghichu": null
+        }
     ],
     "hoadon": [
-        
+        {
+            "id": 1,
+            "idphong": 1,
+            "thang": "2023-01-01",
+            "sodien": 100,
+            "sonuoc": 10,
+            "tiendien": 230000,
+            "tiennuoc": 50000,
+            "ghichu": null
+        },
+        {
+            "id": 2,
+            "idphong": 2,
+            "thang": "2023-01-01",
+            "sodien": 100,
+            "sonuoc": 10,
+            "tiendien": 230000,
+            "tiennuoc": 50000,
+            "ghichu": null
+        },
+        {
+            "id": 3,
+            "idphong": 3,
+            "thang": "2023-01-01",
+            "sodien": 100,
+            "sonuoc": 10,
+            "tiendien": 230000,
+            "tiennuoc": 50000,
+            "ghichu": null
+        },
+        {
+            "id": 4,
+            "idphong": 4,
+            "thang": "2023-01-01",
+            "sodien": 100,
+            "sonuoc": 10,
+            "tiendien": 230000,
+            "tiennuoc": 50000,
+            "ghichu": null
+        },
+        {
+            "id": 5,
+            "idphong": 5,
+            "thang": "2023-01-01",
+            "sodien": 100,
+            "sonuoc": 10,
+            "tiendien": 230000,
+            "tiennuoc": 50000,
+            "ghichu": null
+        }
     ]
 }
