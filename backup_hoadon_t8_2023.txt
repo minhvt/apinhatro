@@ -1,0 +1,452 @@
+[
+ {
+  "id": "1",
+  "idphong": 1,
+  "thang": "2022-12-01",
+  "sodien": 2286,
+  "sonuoc": 156,
+  "tiendien": 230000,
+  "tiennuoc": 50000,
+  "ghichu": ""
+ },
+ {
+  "id": "2",
+  "idphong": 2,
+  "thang": "2022-12-01",
+  "sodien": 18287,
+  "sonuoc": 605,
+  "tiendien": 230000,
+  "tiennuoc": 50000,
+  "ghichu": ""
+ },
+ {
+  "id": "3",
+  "idphong": 3,
+  "thang": "2022-12-01",
+  "sodien": 13778,
+  "sonuoc": 1,
+  "tiendien": 230000,
+  "tiennuoc": 50000,
+  "ghichu": ""
+ },
+ {
+  "id": "4",
+  "idphong": 4,
+  "thang": "2022-12-01",
+  "sodien": 8193,
+  "sonuoc": 1,
+  "tiendien": 230000,
+  "tiennuoc": 50000,
+  "ghichu": ""
+ },
+ {
+  "id": "5",
+  "idphong": 5,
+  "thang": "2022-12-01",
+  "sodien": 9484,
+  "sonuoc": 1,
+  "tiendien": 230000,
+  "tiennuoc": 50000,
+  "ghichu": ""
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-06-01",
+  "sodien": 2643,
+  "sonuoc": 166,
+  "tiendien": 348000,
+  "tiennuoc": 52000,
+  "ghichu": "",
+  "id": "6"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-06-01",
+  "sodien": 19903,
+  "sonuoc": 653,
+  "tiendien": 1464000,
+  "tiennuoc": 260000,
+  "ghichu": "",
+  "id": "7"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-06-01",
+  "sodien": 14238,
+  "sonuoc": 1,
+  "tiendien": 540000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "8"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-06-01",
+  "sodien": 8866,
+  "sonuoc": 311,
+  "tiendien": 196000,
+  "tiennuoc": 8060000,
+  "ghichu": "",
+  "id": "9"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-06-01",
+  "sodien": 10419,
+  "sonuoc": 1,
+  "tiendien": 2232000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "10"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-07-01",
+  "sodien": 2727,
+  "sonuoc": 169,
+  "tiendien": 336000,
+  "tiennuoc": 78000,
+  "ghichu": "",
+  "id": "11"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-07-01",
+  "sodien": 20359,
+  "sonuoc": 664,
+  "tiendien": 1824000,
+  "tiennuoc": 286000,
+  "ghichu": "",
+  "id": "12"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-07-01",
+  "sodien": 14308,
+  "sonuoc": 1,
+  "tiendien": 280000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "13"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-07-01",
+  "sodien": 8941,
+  "sonuoc": 1,
+  "tiendien": 300000,
+  "tiennuoc": -8060000,
+  "ghichu": "",
+  "id": "14"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-07-01",
+  "sodien": 11142,
+  "sonuoc": 1,
+  "tiendien": 2892000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "15"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-01-01",
+  "sodien": 2286,
+  "sonuoc": 156,
+  "tiendien": 0,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "16"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-01-01",
+  "sodien": 18287,
+  "sonuoc": 605,
+  "tiendien": 0,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "17"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-01-01",
+  "sodien": 13778,
+  "sonuoc": 1,
+  "tiendien": 0,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "18"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-01-01",
+  "sodien": 8193,
+  "sonuoc": 1,
+  "tiendien": 0,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "19"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-01-01",
+  "sodien": 9484,
+  "sonuoc": 1,
+  "tiendien": 0,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "20"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-02-01",
+  "sodien": 2335,
+  "sonuoc": 158,
+  "tiendien": 196000,
+  "tiennuoc": 52000,
+  "ghichu": "",
+  "id": "21"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-02-01",
+  "sodien": 18583,
+  "sonuoc": 615,
+  "tiendien": 1184000,
+  "tiennuoc": 260000,
+  "ghichu": "",
+  "id": "22"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-02-01",
+  "sodien": 13844,
+  "sonuoc": 1,
+  "tiendien": 264000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "23"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-02-01",
+  "sodien": 8413,
+  "sonuoc": 1,
+  "tiendien": 880000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "24"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-02-01",
+  "sodien": 9505,
+  "sonuoc": 1,
+  "tiendien": 84000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "25"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-03-01",
+  "sodien": 2417,
+  "sonuoc": 160,
+  "tiendien": 328000,
+  "tiennuoc": 52000,
+  "ghichu": "",
+  "id": "26"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-03-01",
+  "sodien": 18918,
+  "sonuoc": 624,
+  "tiendien": 1340000,
+  "tiennuoc": 234000,
+  "ghichu": "",
+  "id": "27"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-03-01",
+  "sodien": 13963,
+  "sonuoc": 1,
+  "tiendien": 476000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "28"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-03-01",
+  "sodien": 8581,
+  "sonuoc": 1,
+  "tiendien": 672000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "29"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-03-01",
+  "sodien": 9563,
+  "sonuoc": 513,
+  "tiendien": 232000,
+  "tiennuoc": 13312000,
+  "ghichu": "",
+  "id": "30"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-04-01",
+  "sodien": 2474,
+  "sonuoc": 162,
+  "tiendien": 228000,
+  "tiennuoc": 52000,
+  "ghichu": "",
+  "id": "31"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-04-01",
+  "sodien": 19207,
+  "sonuoc": 633,
+  "tiendien": 1156000,
+  "tiennuoc": 234000,
+  "ghichu": "",
+  "id": "32"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-04-01",
+  "sodien": 14037,
+  "sonuoc": 1,
+  "tiendien": 296000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "33"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-04-01",
+  "sodien": 8687,
+  "sonuoc": 1,
+  "tiendien": 424000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "34"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-04-01",
+  "sodien": 9563,
+  "sonuoc": 513,
+  "tiendien": 0,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "35"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-05-01",
+  "sodien": 2556,
+  "sonuoc": 164,
+  "tiendien": 328000,
+  "tiennuoc": 52000,
+  "ghichu": "",
+  "id": "36"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-05-01",
+  "sodien": 19537,
+  "sonuoc": 643,
+  "tiendien": 1320000,
+  "tiennuoc": 260000,
+  "ghichu": "",
+  "id": "37"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-05-01",
+  "sodien": 14103,
+  "sonuoc": 1,
+  "tiendien": 264000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "38"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-05-01",
+  "sodien": 8817,
+  "sonuoc": 1,
+  "tiendien": 520000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "39"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-05-01",
+  "sodien": 9861,
+  "sonuoc": 1,
+  "tiendien": 1192000,
+  "tiennuoc": -13312000,
+  "ghichu": "",
+  "id": "40"
+ },
+ {
+  "idphong": 1,
+  "thang": "2023-08-01",
+  "sodien": 2789,
+  "sonuoc": 170,
+  "tiendien": 248000,
+  "tiennuoc": 26000,
+  "ghichu": "",
+  "id": "43"
+ },
+ {
+  "idphong": 2,
+  "thang": "2023-08-01",
+  "sodien": 20804,
+  "sonuoc": 675,
+  "tiendien": 1780000,
+  "tiennuoc": 286000,
+  "ghichu": "",
+  "id": "44"
+ },
+ {
+  "idphong": 3,
+  "thang": "2023-08-01",
+  "sodien": 14395,
+  "sonuoc": 1,
+  "tiendien": 348000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "45"
+ },
+ {
+  "idphong": 4,
+  "thang": "2023-08-01",
+  "sodien": 8996,
+  "sonuoc": 1,
+  "tiendien": 220000,
+  "tiennuoc": 0,
+  "ghichu": "",
+  "id": "46"
+ },
+ {
+  "idphong": 5,
+  "thang": "2023-08-01",
+  "sodien": 11727,
+  "sonuoc": 577,
+  "tiendien": 2340000,
+  "tiennuoc": 14976000,
+  "ghichu": "",
+  "id": "47"
+ }
+]

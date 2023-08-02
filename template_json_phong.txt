@@ -1,0 +1,42 @@
+[
+ {
+  "sophong": "Tầng 1",
+  "phithue": 0,
+  "giadien": 4000,
+  "gianuoc": 26000,
+  "ghichu": "",
+  "id": "1"
+ },
+ {
+  "sophong": "Tầng 2",
+  "phithue": 0,
+  "giadien": 4000,
+  "gianuoc": 26000,
+  "ghichu": "",
+  "id": "2"
+ },
+ {
+  "sophong": "Tầng 3",
+  "phithue": 3500000,
+  "giadien": 4000,
+  "gianuoc": 26000,
+  "ghichu": "",
+  "id": "3"
+ },
+ {
+  "sophong": "Tầng 4",
+  "phithue": 3500000,
+  "giadien": 4000,
+  "gianuoc": 26000,
+  "ghichu": "",
+  "id": "4"
+ },
+ {
+  "sophong": "Tầng 5",
+  "phithue": 3500000,
+  "giadien": 4000,
+  "gianuoc": 26000,
+  "ghichu": "",
+  "id": "5"
+ }
+]
