@@ -48,6 +48,8 @@
             "thang": "2023-01-01",
             "sodien": 100,
             "sonuoc": 10,
+			"tongdien": 100,
+            "tongnuoc": 10,
             "tiendien": 230000,
             "tiennuoc": 50000,
             "ghichu": null
@@ -58,6 +60,8 @@
             "thang": "2023-01-01",
             "sodien": 100,
             "sonuoc": 10,
+			"tongdien": 100,
+            "tongnuoc": 10,
             "tiendien": 230000,
             "tiennuoc": 50000,
             "ghichu": null
@@ -68,6 +72,8 @@
             "thang": "2023-01-01",
             "sodien": 100,
             "sonuoc": 10,
+			"tongdien": 100,
+            "tongnuoc": 10,
             "tiendien": 230000,
             "tiennuoc": 50000,
             "ghichu": null
@@ -78,6 +84,8 @@
             "thang": "2023-01-01",
             "sodien": 100,
             "sonuoc": 10,
+			"tongdien": 100,
+            "tongnuoc": 10,
             "tiendien": 230000,
             "tiennuoc": 50000,
             "ghichu": null
@@ -88,6 +96,8 @@
             "thang": "2023-01-01",
             "sodien": 100,
             "sonuoc": 10,
+			"tongdien": 100,
+            "tongnuoc": 10,
             "tiendien": 230000,
             "tiennuoc": 50000,
             "ghichu": null
